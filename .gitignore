@@ -6,8 +6,8 @@ dist-ssr
 public/
 vite.config.js
 package.json
-package-lock.json
-firebase.json
+*.json
+
 gitignore
 firebaserc
 eslintrc.cjs
