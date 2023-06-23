@@ -7,18 +7,18 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
-dist
+node_modules/
+dist/
 dist-ssr
-.firebase
-public
+.firebase/
+public/
 vite.config.js
 package.json
 package-lock.json
 firebase.json
-.gitignore
-.firebaserc
-.eslintrc.cjs
+gitignore
+firebaserc
+eslintrc.cjs
 
 *.local
 
