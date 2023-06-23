@@ -4,13 +4,13 @@ dist/
 dist-ssr
 .firebase/
 public/
-vite.config.js
-package.json
-*.json
 
-gitignore
+
+*.json
+.gitignore
 firebaserc
 eslintrc.cjs
 \firebasefile.jsx
+vite.config.js
 
 
